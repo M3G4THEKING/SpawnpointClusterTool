@@ -8,6 +8,6 @@ s2sphere==0.2.5
 turfpy==0.0.7
 scipy==1.10.1
 Shapely==1.7.1
-mysql-connector-python==8.0.15
+mysql-connector-python==9.1.0
 PyMySQL==1.1.0
 simplejson==3.16.0
